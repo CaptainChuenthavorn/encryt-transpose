@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
-void transposeMethod(int n, int m, int** p, int** t);
+void transposeMethod(int , int , int** , int** );
 int main()
 {
 	int A, n, m, transpose;
